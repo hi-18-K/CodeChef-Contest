@@ -26,6 +26,8 @@ using namespace std;
 # include <string> 
 # include <vector> 
 
+//usign random :-45 points
+
 void solve(){
     ll n,i,j,l,r;
     cin >> n;
